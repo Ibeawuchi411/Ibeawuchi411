@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Ibeawuchi411
-- 👀 DevOps Engineer and AWS Solutions architect with the flair to examine organisations Key Value areas and increase its responsiveness in delivering value.
-- 🌱 I have over 5years experience in the use of Linux, git, github and other SDLC tools such as maven and others. I have a wealth of experience in the use of Jenkins (automation tool) and its integration with  other SDLC tools such as git, gitHub,  maven, Nexus, soanrqube, nginx and Tomcat in deploying the CI/CD/CD pipelines.
-  With my experience in depolying Java, Nodejs, NET and Python projects over a 5year period I have used Docker to build and containerise applications whilst deploying with Kubernetes.
-  In my environment I use Terrraform to provision my infrastructure and configure with Ansible (iac)
-  Application Performance monitoring tools such as New Relics, Grafana and Promethus are tools that I use regularly depending on each project.
-  My overaching goal is to ensure that the work I deliver achieves cost optimisation, increases performance, the security of each application or architecture is optimised, Fault tolerance is examined in relation to disaster recovery and the limitation of the services available.  
+- 👀 I am a skilled and professional DevOps Engineer/Platform Engineer/ Infrastructure Engineer/ DevsecOps Engineer/ Kubernetes Engineer/ Agile Project Manager/ Scrum Master and AWS Solutions architect with over 7years solid hands-on experience in automating the deployment of critical applications over varying infrastructure as well as managing Iaas, Paas, Saas and on-prem .
+-   I am highly proficient in source code management , configuration management using Ansible, orchestration management , infrastructure management and CI/CD.
+-   I possess excellent communication, analytical , problem-solving and decision -making skills.
+-   I am an avid learner who is always discovering and eager to explore new technologies and tools. 
+- 🌱 
 - 
 - 💞️ 
 How to reach me is stanford112@yahoo.com
