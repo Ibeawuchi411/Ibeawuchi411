@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Ibeawuchi411
 - 👀 I am a self – motivated, eye -to- detail DevOps Engineer/ Infrastructure Engineer and AWS Solutions Architect with over 7 years solid hands-on experience in automating the deployment of mission critical applications over varying infrastructure as well as managing Iaas, Paas, Saas and On-Prem. I am highly proficient in Source Code Management. Provisioning and configuring infrastructure using terraform and ansible. 
 Extensive knowledge in deploying Jenkins pipeline jobs.  such as Jenkins – docker -Kubernetes integration, Jenkins – Ansible – Kubernetes integration. Strong Knowledge and experience in containerisation (Docker) and deploying applications using Amazon EKS and Kops.
+I have a strong knowledge and experience in designing AWS secure, resilient, high performing and cost – optimised architectures.
+I am a team player and collaborate with teams, stakeholders, end-users to examine the goals of the organisation (unrealised value), the current state of the organisation relative to those goals ( current value), the responsiveness of the organisation in delivering value (time to market), and the effectiveness of the organisation in delivering value ( ability to innovate).   
  I possess excellent communication, analytical, problem-solving, and decision-making skills. I am an avid learner who is always discovering and eager to explore new technologies and tools.
 
 - 
