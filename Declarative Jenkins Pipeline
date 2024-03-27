@@ -10,7 +10,7 @@ pipeline{
   stages {
     stage('1.CodeClone'){
       steps{
-          git branch: 'stage', credentialsId: 'GitHubCredentials', url: 'https://gith/web-app'
+          git branch: 'stage', credentialsId: 'GitHubCredentials', url: 'https://github.com/Ibeawuchi411/java-web-app.git'
       }
     } 
     stage('2.mavenBuild'){
