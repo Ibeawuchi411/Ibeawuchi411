@@ -43,13 +43,13 @@ pipeline{
    stages{
       stage('1.containerisation'){
          steps{
-            sh "docker build -t mylandmarktech/hello -f /var/lib/jenkins/hello/df.txt "
+            sh "docker build -t ibeawuchi/webapp:2 -f /var/lib/jenkins/hello/df.txt "
          }
       }
       stage('2.shareImages'){
          steps{
-            sh 'docker login -u mylandmarktech -p admin@123'
-            sh 'docker push mylandmarktech/hello '
+            sh 'docker login -u ibeawuchi -p admin@123'
+            sh 'docker push ibeawuchi/webapp:2 '
          }
       }
       stage('3.Deploy2UAT'){
