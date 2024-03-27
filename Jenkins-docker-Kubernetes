@@ -9,7 +9,7 @@ pipeline{
       stage(1.clone){
          steps{
           sh  "echo cloning the latest application version"
-          git ''            
+          git 'https://github.com/Ibeawuchi411/Ibeawuchi411.git'            
          }
       }
       stage(2.mvnBuild){
